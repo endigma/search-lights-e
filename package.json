@@ -3,11 +3,11 @@
   "version": "1.10.2",
   "displayName": "Search Lights",
   "description": "Field Lights based dark theme",
-  "publisher": "radiolevity",
+  "publisher": "endigma",
   "icon": "search-lights-color.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/finnsjames/search-lights"
+    "url": "https://github.com/endigma/search-lights"
   },
   "galleryBanner": {
     "color": "#1A1F28",
