@@ -1,7 +1,7 @@
 # Search Lights
 
-<a href="https://marketplace.visualstudio.com/items?itemName=endigma.search-lights">
-  <img alt="marketplace version" src="https://img.shields.io/vscode-marketplace/v/endigma.search-lights.svg?maxAge=3600&style=for-the-badge&colorA=1A1F28&colorB=FFCC66">
+<a href="https://marketplace.visualstudio.com/items?itemName=endigma.search-lights-e">
+  <img alt="marketplace version" src="https://img.shields.io/vscode-marketplace/v/endigma.search-lights-e.svg?maxAge=3600&style=for-the-badge&colorA=1A1F28&colorB=FFCC66">
 </a>
 
 ---
